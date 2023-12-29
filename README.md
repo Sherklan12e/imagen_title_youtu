@@ -8,7 +8,12 @@
 * cualquier IDE
 
 ### Instalacion
-
+```
+$ git clone https://github.com/Sherklan12e/imagen_title_youtu.git
+```
+```
+$ cd imagen_title_youtu
+```
 
 dentro del proyecto en la terminar
 
