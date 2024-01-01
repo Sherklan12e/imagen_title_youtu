@@ -9,3 +9,4 @@ class ImageForm(forms.ModelForm):
             'title': forms.TextInput(attrs={'class': 'form-control', 'placeholder': 'Ingrese el título'}),
             'imagen': forms.ClearableFileInput(attrs={'class': 'form-control'})
         }
+    
